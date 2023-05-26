@@ -1,6 +1,6 @@
 create database grupo;
 use grupo;
-create or replace table employees(
+create table employees(
     id int auto_increment primary key,
     nombres varchar(50) not null,
     apellidos varchar(50) not null,
