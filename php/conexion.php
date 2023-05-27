@@ -1,8 +1,8 @@
 <?php
-$contrasena = "AVNS_XtsNKgJwDlH934mJ0-9";
+$contrasena = "AVNS_YgZM4oXLctQx9HroqJW";
 $usuario = "doadmin";
 $nombre_bd = "defaultdb";
-$host = "db-mysql-nyc1-61857-do-user-14089120-0.b.db.ondigitalocean.com";
+$host = "db-mysql-nyc1-25476-do-user-14089120-0.b.db.ondigitalocean.com";
 $port = 25060;
 
 try {
